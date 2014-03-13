@@ -16,3 +16,11 @@
 *.exe
 *.out
 *.app
+
+#else
+*.dsp
+*.ncb
+*.opt
+*.plg
+Debug/
+
